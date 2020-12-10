@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aleon\\Documents\\2020 - II\\Programacion Teoria\\Practica03\\PC3-Berrocal\\PC3-Berrocal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aleon\\Documents\\2020 - II\\Programacion Teoria\\Practica03\\PC3-Berrocal\\PC3-Berrocal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aleon\\Documents\\2020 - II\\Programacion Teoria\\Practica03\\PC3-Berrocal\\PC3-Berrocal.csproj",
+        "projectName": "PC3-Berrocal",
+        "projectPath": "C:\\Users\\aleon\\Documents\\2020 - II\\Programacion Teoria\\Practica03\\PC3-Berrocal\\PC3-Berrocal.csproj",
+        "packagesPath": "C:\\Users\\aleon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aleon\\Documents\\2020 - II\\Programacion Teoria\\Practica03\\PC3-Berrocal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.inmemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
